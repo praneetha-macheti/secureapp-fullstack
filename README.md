@@ -1,6 +1,6 @@
-# 🔐 SecureApp – Full-Stack Authentication System
+# SecureApp – Full-Stack Authentication System
 
-## 📘 Overview
+## Overview
 **SecureApp** is a full-stack web project demonstrating secure user authentication and registration using:
 
 - **Spring Boot (backend)** – Java 17, Maven, Spring Security, JPA  
@@ -9,16 +9,16 @@
 
 ---
 
-## 🚀 Features
-✅ Signup & Login forms  
-✅ REST API integration  
-✅ Secure CORS configuration  
-✅ Validation messages in Angular  
-✅ User data persistence in backend  
+## Features
+ Signup & Login forms  
+ REST API integration  
+ Secure CORS configuration  
+ Validation messages in Angular  
+ User data persistence in backend  
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 | Layer | Technologies |
 |-------|---------------|
 | Frontend | Angular 17, TypeScript, Bootstrap 5 |
@@ -28,9 +28,9 @@
 
 ---
 
-## ⚙️ Running the Project Locally
+## Running the Project Locally
 
-### 🖥️ Backend
+### Backend
 ```bash
 cd Secureapp
 mvn spring-boot:run
