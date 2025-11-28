@@ -1,5 +1,5 @@
 # Step 1: Use an OpenJDK base image
-FROM openjdk:17-jdk-slim
+FROM eclipse-temurin:17-jdk
 
 # Step 2: Set the working directory
 WORKDIR /app
